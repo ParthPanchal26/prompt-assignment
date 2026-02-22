@@ -73,34 +73,31 @@ Return the response in clean, well-formatted text with headings and bullet point
 
 # Assignment 3 prompt
 ```text
-You are an academic research writer.
+You are a DevOps engineer.
 
-Write a structured research paper on the topic:
-"The Effects of Social Media on Mental Health."
+Generate a detailed and technically accurate outline for a tutorial on:
 
-Follow these instructions strictly:
+"Setting up a Production-Ready Web Server using Docker and Nginx."
 
-1. Divide the paper into the following sections:
-   - Introduction
-   - Literature Review
-   - Findings
-   - Conclusion
+The outline must include:
 
-2. Each section must contain approximately 300 words.
+1. Prerequisites
+2. System Architecture Overview
+3. Step-by-Step Setup Instructions
+4. Dockerfile Explanation
+5. Docker Compose Configuration
+6. Reverse Proxy Configuration using Nginx
+7. Security Best Practices
+8. Performance Optimization
+9. Monitoring and Logging Setup
+10. Troubleshooting Common Issues
 
-3. After EACH section, add a subsection titled:
-   "Section Summary"
-   Provide exactly 3 concise bullet points summarizing that section.
-
-4. Use formal academic tone.
-
-5. Do not skip any section.
-
-6. Do not combine sections.
-
-7. Clearly label all headings.
-
-Return the response in clean, well-formatted text with headings and bullet points.
+Requirements:
+- Use professional DevOps terminology.
+- Be technically precise.
+- Avoid generic explanations.
+- Provide structured headings and subpoints.
+- Assume the audience has basic Linux knowledge.
 ```
 
 ---
